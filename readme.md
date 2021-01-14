@@ -58,7 +58,8 @@ EG: tar czf compressed_butterfly.tar.gz butterfly.svg
 
 IF you want to compress even further, there is another option: bzip2
 
-src="https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/"
+bzip2:
+    src="https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/"
 
 Warning: 
 -   It's a lot slower
